@@ -1,0 +1,10 @@
+.content_word {
+    display: flex;
+    justify-content: center;
+}
+
+.current-word {
+    color: white;
+    font-weight: bold;
+    font-size: $l-size;
+}

@@ -1,0 +1,14 @@
+.big-button {
+    background: $darkbue;
+    border: none;
+    border-bottom: .6rem solid darken($darkbue, 10%);   
+    color: white;
+    font-weight: bold;
+    font-size: $l-size;
+    padding: 2.4rem;
+    width: 100%;
+}
+
+.big-button:disabled {
+    opacity: .5
+}

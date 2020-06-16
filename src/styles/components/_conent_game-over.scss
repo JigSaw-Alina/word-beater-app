@@ -1,0 +1,13 @@
+.content_game_over {
+    display: flex;
+    justify-content: center;
+    background: $dark-blue;
+}
+
+.content_game {
+   font-weight: bold;
+   font-size: 2.5rem;
+   color: $off-white;
+   margin-top: 20px;
+   
+}

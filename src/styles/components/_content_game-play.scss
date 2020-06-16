@@ -1,0 +1,12 @@
+.content_game__play {
+    display: flex;
+    justify-content: center;
+    background: $blue;
+    padding: 0 20px 0 20px;
+    border-bottom: .3rem solid darken($dark-blue, 10%);
+}
+
+.content_text {
+    color: white;
+    text-align: center;
+}

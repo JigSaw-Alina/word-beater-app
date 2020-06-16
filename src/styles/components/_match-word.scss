@@ -1,0 +1,18 @@
+.match-word {
+  display: flex;
+  padding: $m-size;
+}
+
+.match-word__input {
+    background: $off-white;
+    border: none;
+    border-bottom: .3rem solid darken($dark-blue, 10%);
+    flex-grow: 1;
+    margin-right: $s-size;
+    padding: $s-size;
+}
+
+
+.match-word__input:disabled {
+    opacity: .10
+}

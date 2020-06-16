@@ -1,0 +1,13 @@
+.widget-time__and__score {
+   display: flex;
+   justify-content: space-between;
+   background: $blue;
+   color: $off-white;
+   padding: 0 20px 0 20px;
+}
+
+.widget_time-score {
+   font-weight: bold;
+   font-size: $l-size;
+   
+}
